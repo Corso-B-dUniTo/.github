@@ -1,12 +1,7 @@
-## Hi there 👋
+# Corso B dUnito
 
-<!--
+Ciao a tutti, questo è un ottimo posto per condividere e conservare gli appunti, dedicato a tutti gli studenti del corso B dell'Università degli studi di Torino.
 
-**Here are some ideas to get you started:**
+Trovate un template creato da @filippo-ferrando per la crezione dei repo personali dove potete modificare le vostre linee guida per usare e modificare i vostri file.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Buono studio a tutti**
